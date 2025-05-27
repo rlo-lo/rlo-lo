@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Eunwoo Kim
+# 👋 Hi, I'm EUNWOO KIM
 
 > A computer engineering student passionate about digital forensics, ethical hacking, and technology-driven problem solving.
 
 [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/KIM-EUN-WOO-Portfolio-1fa225fd7acf80bc9009f4cca2772d6d?pvs=12)  
-[![Email](https://img.shields.io/badge/Email-rlo.lo.dev@gmail.com-red?style=flat&logo=gmail)](mailto:ewid1201@naver.com)
+[![Email](https://img.shields.io/badge/Email-ewid1201@naver.com-red?style=flat&logo=gmail)](mailto:ewid1201@naver.com)
 
 ---
 
