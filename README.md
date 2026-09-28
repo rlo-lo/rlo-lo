@@ -84,7 +84,6 @@ Focused on **Digital Forensics & Cybersecurity**
 | Type | Title | Date |
 |------|-------|------|
 | Certification | 디지털포렌식 2급 필기 합격 | 2026 |
-| Certification | TOEIC 770 | May 2025 |
 | Award | AGTHON – Grand Prize | Aug 2024 |
 | Award | AWS Special Award | Aug 2024 |
 | Award | Korea Science Creativity Foundation – Excellent Mentor Award | Dec 2024 |
